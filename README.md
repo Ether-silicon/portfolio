@@ -1,5 +1,7 @@
 # Data Science Engineer
 
+> The best time to plant a tree was 20 years ago the second best time is now. - Chinese proverb
+
 ## Working experience
 **Data Science Engineer @ Coherent Corp (_September 2024 - Present_)**
 - Developed data ETL automation and deployment of query scripts.
