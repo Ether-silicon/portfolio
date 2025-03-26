@@ -20,6 +20,13 @@
 - MSc in Data Science | Universiti Teknologi Petronas (_May 2024 - Present_)
 - BEng in Chemical Engineering | Universiti Sains Malaysia (_September 2018 - August 2022_)
 
+##  Redis Social Media Backend
+A lightweight backend system for a basic social media platform, built using Flask and Redis. This project demonstrates how to efficiently manage user profiles, posts, follower relationships, and personalized timeline feeds using Redis data structures (hashes, lists, sets).
+
+Designed for speed and scalability, this backend serves as a real-time system with minimal latency — ideal for platforms that require fast content delivery and dynamic user interactions.
+
+[CS50P: Python project](https://github.com/Ether-silicon/redis_social_media_project)
+
 ## CS50 Projects
 ### Predictive maintenance using machine learning
 Extract open-source Machine Predictive Maintenance classification dataset. Performed Exploratory Data Analysis (EDA) to identify unwanted data. Data cleaning to remove unwanted data, handling missing data, data formatting and drop column. Utilizing DecisianTreeClassifier model to train and predict FailureType of the machine.
