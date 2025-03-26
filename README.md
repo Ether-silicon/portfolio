@@ -25,7 +25,7 @@ A lightweight backend system for a basic social media platform, built using Flas
 
 Designed for speed and scalability, this backend serves as a real-time system with minimal latency — ideal for platforms that require fast content delivery and dynamic user interactions.
 
-[CS50P: Python project](https://github.com/Ether-silicon/redis_social_media_project)
+[Redis Social Media DB](https://github.com/Ether-silicon/redis_social_media_project)
 
 ## CS50 Projects
 ### Predictive maintenance using machine learning
