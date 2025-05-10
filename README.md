@@ -20,6 +20,11 @@
 - MSc in Data Science | Universiti Teknologi Petronas (_May 2024 - Present_)
 - BEng in Chemical Engineering | Universiti Sains Malaysia (_September 2018 - August 2022_)
 
+## Garmin Analytic & Performance Dashboard
+An interactive web dashboard that analyzes health and performance data from Garmin and Strava exports. Built with Streamlit, this tool supports `.csv` and `.fit` files and provides dynamic visual insights into training metrics such as pace, heart rate, cadence, and GPS routes.
+
+[Garmin Analytic & Performance Dashboard](https://garminanalyticdashboard.streamlit.app/)
+
 ##  Redis Social Media Backend
 A lightweight backend system for a basic social media platform, built using Flask and Redis. This project demonstrates how to efficiently manage user profiles, posts, follower relationships, and personalized timeline feeds using Redis data structures (hashes, lists, sets).
 
