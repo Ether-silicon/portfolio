@@ -34,11 +34,17 @@ Experienced **Data Science Engineer** with a background in **chemical engineerin
 ---
 
 ## 🎓 Education
-- **MSc in Data Science** | *Universiti Teknologi Petronas*  
-  📅 *May 2024 – Present*
-- **BEng in Chemical Engineering** | *Universiti Sains Malaysia*  
-  📅 *September 2018 – August 2022*
 
+- **MSc in Data Science** (ODL) | *Universiti Teknologi PETRONAS*  
+  📅 *May 2024 – Sep 2025 (Expected)*  
+  **CGPA:** 3.92 / 4.00  
+  *Thesis: Development of Machine Learning Models for Failure Prediction in Oil & Gas Rotating Equipment*
+
+- **BEng in Chemical Engineering (Hons)** | *Universiti Sains Malaysia*  
+  📅 *Sep 2018 – Aug 2022*  
+  **CGPA:** 3.90 / 4.00  
+  - Book Prize Recipient – School of Chemical Engineering  
+  - Top 10 Final Year Project & Best Plant Design Team
 ---
 
 ## 📍 Featured Projects
@@ -73,3 +79,29 @@ Designed to support predictive maintenance:
 - Monitors equipment health
 - Predicts failure risks
 - Manages spare parts inventory
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages:** Python, SQL, R, DAX, PHP, MATLAB, VBA  
+**Tools & Platforms:** Power BI, Tableau, Power Automate, Git, GitHub Copilot, MongoDB, Redis, Docker, Azure, PySpark, SQL Server  
+**Certifications:**
+- CS50 Python, R & SQL – Harvard University  
+- MATLAB Machine Learning Onramp  
+- Snowflake ETL Mastery
+
+---
+
+## 🏅 Awards & Recognition
+
+- 🎖️ 5th Place – SEA-GIC 2020 (58 teams, Southeast Asia)
+- 📚 Book Prize – School of Chemical Engineering (USM)
+- 🏆 Best Final Year Plant Design Team (USM)
+
+---
+
+## 🎤 Presentations
+
+- [IChemE Workshop – *Exploring Data Analytic Through Excel*](https://www.linkedin.com/feed/update/urn:li:activity:7182005285408968705/)  
+  📍 University of Nottingham Malaysia, March 2024
