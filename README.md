@@ -36,18 +36,27 @@ Experienced **Data Science Engineer** with a background in **chemical engineerin
 ## 🎓 Education
 
 - **MSc in Data Science** (ODL) | *Universiti Teknologi PETRONAS*  
-  📅 *May 2024 – Sep 2025 (Expected)*  
-  **CGPA:** 3.92 / 4.00  
+  📅 *May 2024 – Sep 2025*  
+  **CGPA:** 3.91 / 4.00  
   *Thesis: Development of Machine Learning Models for Failure Prediction in Oil & Gas Rotating Equipment*
+  - One of the Postgraduate Awards receipients in MSc Data Science
 
 - **BEng in Chemical Engineering (Hons)** | *Universiti Sains Malaysia*  
   📅 *Sep 2018 – Aug 2022*  
   **CGPA:** 3.90 / 4.00  
   - Book Prize Recipient – School of Chemical Engineering  
   - Top 10 Final Year Project & Best Plant Design Team
----
 
 ## 📍 Featured Projects
+
+### 🧠 [**Predictive Maintenance with Machine Learning**](https://github.com/Ether-silicon/predictive_maintenance)
+⚙️ Developed multi-sensor ML models to predict failures in refinery rotating equipment (pumps, compressors, turbines) using vibration, current, and temperature data.
+
+📈 Achieved 99.9% accuracy with Random Forest, surpassing literature benchmarks, and demonstrated robust feature engineering and preprocessing workflows (MATLAB + Python).
+
+📜 [Presentation slides](https://drive.google.com/file/d/1W1vXlqeKgrethuSu8iid8UergoseuSol/view?usp=sharing)
+
+---
 
 ### 📍 [**Garmin Analytic & Performance Dashboard**](https://garminanalyticdashboard.streamlit.app/)
 ⏱️ An interactive web dashboard analyzing health & performance metrics from **Garmin** and **Strava** `.csv` / `.fit` exports.  
