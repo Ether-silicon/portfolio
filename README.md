@@ -1,25 +1,28 @@
-# Data Science Engineer
+# Senior Data Analyst | Microsoft Fabric Data Engineer
 
 > The best time to plant a tree was 20 years ago the second best time is now. - Chinese proverb
 
 ## 🧾 Profile Summary
 
-Experienced **Data Science Engineer** with a background in **chemical engineering**, passionate about building **data pipelines**, **real-time dashboards**, and **machine learning** solutions. Strong track record of deploying scalable analytics tools, mentoring teams, and delivering actionable insights from complex datasets.
+I am a **Senior Data Analyst** with a background in **Chemical & Reliability Engineering**, specializing in building high-integrity data solutions. Recently certified as a **Microsoft Fabric Data Engineer Associate (DP-700)**, I bridge the gap between industrial reliability and modern cloud architecture. 
 
-**⚡ Expertise:** Python, SQL, Power BI, Streamlit, PySpark, Git, Redis  
-**📍 Interests:** Data Engineering, Operational Efficiency, Predictive Maintenance
-
----
+**⚡ Expertise:** Microsoft Fabric (Lakehouse, Medallion Architecture), Python, SQL, PySpark, Power BI, GenAI Implementation.  
+**📍 Interests:** Data Engineering, Predictive Maintenance, Algorithm Optimization, Marathons! 🏃‍♂️
 
 ## 💼 Working Experience
 
+### **Senior Data Analyst** @ *PerkinElmer*
+📅 *November 2025 – Present*
+- Leading advanced analytics initiatives to drive operational excellence and data-driven decision-making.
+- Designing **Microsoft Fabric** ecosystems to streamline data ingestion and reporting workflows.
+- Mentoring teams on the adoption of AI-assisted engineering workflows.
+
 ### **Data Science Engineer** @ *Coherent Corp*  
-📅 *September 2024 – Present*
-- Developed enterprise-wide Power BI dashboards to monitor OEE (Overall Equipment Effectiveness), reducing manual reporting time by 60%.
+📅 *September 2024 – November 2025*
+- Developed enterprise-wide Power BI dashboards to monitor OEE, reducing manual reporting time by 60%.
 - Designed scalable ETL pipelines using **Python**, **SQL**, and **PySpark**, cutting data processing time by 50%.
-- Optimized SQL Server queries, slashing execution time by 97% and improving real-time monitoring.
-- Built production-grade Git environments for collaborative analytics workflows.
-- Mentored 2 batches of interns on Streamlit apps, automating performance monitoring tools.
+- Optimized SQL Server queries, slashing execution time by 97%.
+- Mentored interns on building **Streamlit** apps for automated performance monitoring.
 
 ---
 
@@ -49,63 +52,31 @@ Experienced **Data Science Engineer** with a background in **chemical engineerin
 
 ## 📍 Featured Projects
 
-### 🧠 [**Predictive Maintenance with Machine Learning**](https://github.com/Ether-silicon/predictive_maintenance)
-⚙️ Developed multi-sensor ML models to predict failures in refinery rotating equipment (pumps, compressors, turbines) using vibration, current, and temperature data.
+### 🧠 [**Development of Machine Learning Models for Failure Prediction in Oil & Gas Rotating Equipment**](https://github.com/Ether-silicon/predictive_maintenance)
+Developed multi-sensor ML models to predict failures in refinery rotating equipment. Achieved 99.9% accuracy with Random Forest, demonstrating robust feature engineering.
 
-📈 Achieved 99.9% accuracy with Random Forest, surpassing literature benchmarks, and demonstrated robust feature engineering and preprocessing workflows (MATLAB + Python).
-
-📜 [Presentation slides](https://drive.google.com/file/d/1W1vXlqeKgrethuSu8iid8UergoseuSol/view?usp=sharing)
-
----
-
-### 📍 [**Garmin Analytic & Performance Dashboard**](https://garminanalyticdashboard.streamlit.app/)
-⏱️ An interactive web dashboard analyzing health & performance metrics from **Garmin** and **Strava** `.csv` / `.fit` exports.  
-🛠️ Built with **Streamlit** to visualize pace, heart rate, cadence, and GPS tracks.
-
----
-
-### 🧠 [**Redis Social Media Backend**](https://github.com/Ether-silicon/redis_social_media_project)
-⚡ A lightweight backend using **Flask + Redis** for managing user profiles, posts, and timelines.  
-Designed for real-time interactions using Redis data structures (hashes, lists, sets).
-
----
-
-## 📦 CS50 Projects
-
-### 🛠️ [**Predictive Maintenance (ML)**](https://github.com/Ether-silicon/CS50P-Predictive-Maintenance)  
-Used open-source predictive maintenance dataset.  
-Performed **EDA**, data cleaning, and trained a **DecisionTreeClassifier** — achieving **99.6% accuracy** and **99.7% F1 score**.
-
----
-
-### ☀️ [**solaR R Package**](https://github.com/Ether-silicon/CS50R-solaR)  
-Simplifies solar energy production data cleaning using **R**.
-
----
-
-### 🧾 [**Maintenance Database (SQL)**](https://github.com/Ether-silicon/CS50SQL-Maintenance-database)  
-Designed to support predictive maintenance:
-- Monitors equipment health
-- Predicts failure risks
-- Manages spare parts inventory
+### 🏃‍♂️ [**Garmin Analytic & Performance Dashboard**](https://garminanalyticdashboard.streamlit.app/)
+Interactive web dashboard analyzing health & performance metrics (pace, HR, GPS) from Garmin/Strava exports using **Streamlit**.
 
 ---
 
 ## 🧠 Skills & Tools
 
-**Languages:** Python, SQL, R, DAX, PHP, MATLAB, VBA  
-**Tools & Platforms:** Power BI, Tableau, Power Automate, Git, GitHub Copilot, MongoDB, Redis, Docker, Azure, PySpark, SQL Server  
+**Data Engineering:** Microsoft Fabric (OneLake, Lakehouse), PySpark, SQL, Data Factory, Dataflows Gen2  
+**Languages:** Python (Expert), SQL, R, DAX, Java, MATLAB, VBA  
+**AI/ML:** GenAI Adoption, LLM Prompt Engineering, NotebookLM, Scikit-Learn  
 **Certifications:**
-- CS50 Python, R & SQL – Harvard University  
-- MATLAB Machine Learning Onramp  
+- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** 🎓
+- CS50 Python, R & SQL – Harvard University
 - Snowflake ETL Mastery
 
 ---
 
 ## 🏅 Awards & Recognition
 
-- 🎖️ 5th Place – SEA-GIC 2020 (58 teams, Southeast Asia)
-- 📚 Book Prize – School of Chemical Engineering (USM)
+- 🏆 **Postgraduate Award** – MSc Data Science (UTP)
+- 🎖️ **5th Place** – SEA-GIC 2020 (58 teams, Southeast Asia)
+- 📚 **Book Prize** – School of Chemical Engineering (USM)
 - 🏆 Best Final Year Plant Design Team (USM)
 
 ---
