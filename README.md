@@ -9,6 +9,8 @@ I am a **Senior Data Analyst** with a background in **Chemical & Reliability Eng
 **⚡ Expertise:** Microsoft Fabric (Lakehouse, Medallion Architecture), Python, SQL, PySpark, Power BI, GenAI Implementation.  
 **📍 Interests:** Data Engineering, Predictive Maintenance, Algorithm Optimization, Marathons! 🏃‍♂️
 
+<img src="assets/DP-700.png" width="150" alt="DP-700 Logo">
+
 ## 💼 Working Experience
 
 ### **Senior Data Analyst** @ *PerkinElmer*
