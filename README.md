@@ -15,9 +15,10 @@ I am a **Senior Data Analyst** with a background in **Chemical & Reliability Eng
 
 ### **Senior Data Analyst** @ *PerkinElmer*
 📅 *November 2025 – Present*
-- Leading advanced analytics initiatives to drive operational excellence and data-driven decision-making.
-- Designing **Microsoft Fabric** ecosystems to streamline data ingestion and reporting workflows.
-- Mentoring teams on the adoption of AI-assisted engineering workflows.
+- Architected end-to-end pipelines in Microsoft Fabric to automate supply chain tracking and R&D inventory reporting.
+- Implemented Medallion architecture (Lakehouse & Warehouse) to centralize global data and improve planning accuracy.
+- Automated ETL workflows using Python and Gemini CLI, integrating Asana API data directly into Power BI and Excel.
+- Deployed natural language modeling by connecting Power BI with MCP servers, enhancing data exploration capabilities.
 
 ### **Data Science Engineer** @ *Coherent Corp*  
 📅 *September 2024 – November 2025*
