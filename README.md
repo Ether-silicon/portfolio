@@ -1,24 +1,28 @@
-# Senior Data Analyst | Microsoft Fabric Data Engineer
+# Senior Data Analyst | Microsoft Fabric Solutions Architect (DP-600 & DP-700)
 
 > The best time to plant a tree was 20 years ago the second best time is now. - Chinese proverb
 
 ## 🧾 Profile Summary
 
-I am a **Senior Data Analyst** with a background in **Chemical & Reliability Engineering**, specializing in building high-integrity data solutions. Recently certified as a **Microsoft Fabric Data Engineer Associate (DP-700)**, I bridge the gap between industrial reliability and modern cloud architecture. 
+I am a **Senior Data Analyst** with a background in **Chemical & Reliability Engineering**, specializing in building high-integrity, end-to-end data solutions. As a **double-certified Microsoft Fabric professional** (Analytics Engineer & Data Engineer), I bridge the gap between industrial reliability and modern cloud architecture—transforming raw ingestion into high-performance, analytics-ready semantic models.
 
-**⚡ Expertise:** Microsoft Fabric (Lakehouse, Medallion Architecture), Python, SQL, PySpark, Power BI, GenAI Implementation.  
-**📍 Interests:** Data Engineering, Predictive Maintenance, Algorithm Optimization, Marathons! 🏃‍♂️
+**⚡ Expertise:** Microsoft Fabric (Lakehouse, Warehouse, DirectLake, Semantic Modeling), Python, SQL, DAX, PySpark, Power BI, GenAI Implementation.  
+**📍 Interests:** End-to-End Data Architecture, Predictive Maintenance, Algorithm Optimization, Marathons! 🏃‍♂️
 
-<img src="assets/DP-700.png" width="150" alt="DP-700 Logo">
+<div style="display: flex; gap: 10px;">
+  <img src="assets/DP-600.png" width="130" alt="DP-600 Logo">
+  <img src="assets/DP-700.png" width="130" alt="DP-700 Logo">
+</div>
 
 ## 💼 Working Experience
 
 ### **Senior Data Analyst** @ *PerkinElmer*
 📅 *November 2025 – Present*
-- Architected end-to-end pipelines in Microsoft Fabric to automate supply chain tracking and R&D inventory reporting.
-- Implemented Medallion architecture (Lakehouse & Warehouse) to centralize global data and improve planning accuracy.
-- Automated ETL workflows using Python and Gemini CLI, integrating Asana API data directly into Power BI and Excel.
-- Deployed natural language modeling by connecting Power BI with MCP servers, enhancing data exploration capabilities.
+- **Global Sourcing Optimization (GSO):** Leading the data architecture for the GSO project, driving **$24.01M in identified savings** through automated tracking and procurement optimization.
+- **AI-Driven Workflow Automation:** Engineered an automated system for weekly data compilation and AI-augmented analysis of **Past Due POs**. The system generates actionable "next steps" for buyers, **reducing managerial manual drafting time by 95%**.
+- **End-to-End Fabric Implementation:** Architecting comprehensive pipelines in Microsoft Fabric, spanning from Data Factory ingestion to optimized Power BI semantic models for global supply chain and R&D.
+- **Medallion Architecture Mastery:** Implementing Lakehouse and Warehouse structures to centralize global data, utilizing T-SQL and PySpark to ensure data is "analytics-ready" for business stakeholders.
+- **Automation & GenAI:** Automating ETL workflows using Python and Gemini CLI; integrating Asana API and SAP BusinessObjects data to eliminate manual reporting.
 
 ### **Data Science Engineer** @ *Coherent Corp*  
 📅 *September 2024 – November 2025*
@@ -65,13 +69,14 @@ Interactive web dashboard analyzing health & performance metrics (pace, HR, GPS)
 
 ## 🧠 Skills & Tools
 
-**Data Engineering:** Microsoft Fabric (OneLake, Lakehouse), PySpark, SQL, Data Factory, Dataflows Gen2  
-**Languages:** Python (Expert), SQL, R, DAX, Java, MATLAB, VBA  
-**AI/ML:** GenAI Adoption, LLM Prompt Engineering, NotebookLM, Scikit-Learn  
-**Certifications:**
-- **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** 🎓
-- CS50 Python, R & SQL – Harvard University
-- Snowflake ETL Mastery
+- **Fabric Ecosystem:** OneLake, Lakehouse/Warehouse, Data Factory, Dataflows Gen2, **Advanced Semantic Modeling (DirectLake)**, Deployment Pipelines, Spark Notebooks.  
+- **Languages:** Python (Expert), SQL (T-SQL/Spark SQL), DAX (Advanced), R, PySpark, VBA.  
+- **AI/ML:** GenAI Adoption, LLM Prompt Engineering, NotebookLM, Scikit-Learn.  
+- **Certifications:**
+  - **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** 🎓 (Score: 884)
+  - **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** 🎓
+  - CS50 Python, R & SQL – Harvard University
+  - Snowflake ETL Mastery
 
 ---
 
