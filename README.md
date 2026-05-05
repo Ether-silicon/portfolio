@@ -4,7 +4,7 @@
 
 ## 🧾 Profile Summary
 
-I am a **Senior Data Analyst** with a background in **Chemical & Reliability Engineering**, specializing in building high-integrity, end-to-end data solutions. As a **double-certified Microsoft Fabric professional** (Analytics Engineer & Data Engineer), I bridge the gap between industrial reliability and modern cloud architecture—transforming raw ingestion into high-performance, analytics-ready semantic models.
+I am a **Senior Data Analyst** with a background in **Chemical & Reliability Engineering**, specializing in building high-integrity, multi-cloud data solutions. As a **triple-certified professional in AWS AI and Microsoft Fabric (DP-600 & DP-700)**, I bridge the gap between industrial reliability and modern cloud architecture—transforming raw ingestion into high-performance, AI-augmented semantic models.
 
 **⚡ Expertise:** Microsoft Fabric (Lakehouse, Warehouse, DirectLake, Semantic Modeling), Python, SQL, DAX, PySpark, Power BI, GenAI Implementation.  
 **📍 Interests:** End-to-End Data Architecture, Predictive Maintenance, Algorithm Optimization, Marathons! 🏃‍♂️
@@ -12,6 +12,7 @@ I am a **Senior Data Analyst** with a background in **Chemical & Reliability Eng
 <div style="display: flex; gap: 10px;">
   <img src="assets/DP-600.png" width="130" alt="DP-600 Logo">
   <img src="assets/DP-700.png" width="130" alt="DP-700 Logo">
+  <img src="assets/AIF-C01.png" width="130" alt="AIF-C01 Logo">
 </div>
 
 ## 💼 Working Experience
@@ -73,6 +74,7 @@ Interactive web dashboard analyzing health & performance metrics (pace, HR, GPS)
 - **Languages:** Python (Expert), SQL (T-SQL/Spark SQL), DAX (Advanced), R, PySpark, VBA.  
 - **AI/ML:** GenAI Adoption, LLM Prompt Engineering, NotebookLM, Scikit-Learn.  
 - **Certifications:**
+  - **AWS Certified: AI Practitioner** 🎓 (Score: 833)
   - **Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)** 🎓 (Score: 884)
   - **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** 🎓
   - CS50 Python, R & SQL – Harvard University
