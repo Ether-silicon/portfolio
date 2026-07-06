@@ -1,4 +1,4 @@
-# Senior Data Analyst | Microsoft Fabric Solutions Architect (DP-600 & DP-700)
+# Senior Data Analyst | Microsoft Fabric Solutions Architect (DP-600 & DP-700 & DP-800)
 
 > The best time to plant a tree was 20 years ago the second best time is now. - Chinese proverb
 
